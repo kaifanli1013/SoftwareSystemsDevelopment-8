@@ -2,7 +2,7 @@ function App() {
     const { Container, Row, Col } = ReactBootstrap;
     return (
         <React.Fragment>
-            <h1 className="text-center">Your Todo List</h1>
+            <h1 className="text-center">Todo App by LI KAIFAN</h1>
             <Container>
                 <Row>
                     <Col md={{ offset: 3, span: 6 }}>
